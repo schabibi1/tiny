@@ -11,7 +11,7 @@ $ npm install @arisa_dev/tiny
 ## Usage
 
 ```javascript
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@arisa_dev/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
